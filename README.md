@@ -7,8 +7,11 @@ If you don't fill 16 bits the system will automatically count the missing ones t
 For example
 
 A(0) = {1, R, B}
+
 A(1) = {1, L, B}
+
 B(0) = {1, L, A}
+
 B(1) = {1, R, HALT}
 
 can be shown as
