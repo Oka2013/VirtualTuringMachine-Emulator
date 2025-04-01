@@ -20,3 +20,4 @@ can be shown as
 
 11 101
 
+Thanks to Martin Ingvar Kofoed Jensen from StackOverflow, https://www.fundza.com/c4serious/fileIO_reading_all/index.html and https://www.w3schools.com/c/c_files_read.php for healping me to read the whole content of a file with C!!!
