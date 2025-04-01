@@ -14,4 +14,5 @@ B(1) = {1, R, HALT}
 can be shown as
 
 1001 1011
+
 11 101
