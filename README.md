@@ -5,10 +5,13 @@ For example a case may be 11011. In this situation the first two bits in the lef
 If you don't fill 16 bits the system will automatically count the missing ones to the left as 0!
 
 For example
+
 A(0) = {1, R, B}
 A(1) = {1, L, B}
 B(0) = {1, L, A}
 B(1) = {1, R, HALT}
+
 can be shown as
+
 1001 1011
 11 101
